@@ -1,0 +1,1 @@
+# Gathers electives picked by the class in discord
